@@ -11,7 +11,7 @@
     "broken-link-checker": "bin/blc"
   },
   "dependencies": {
-    "bhttp": "^1.2.1",
+    "bhttp": "1.1.0",
     "calmcard": "~0.1.1",
     "chalk": "^1.1.3",
     "char-spinner": "^1.0.1",
